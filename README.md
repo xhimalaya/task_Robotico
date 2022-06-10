@@ -13,4 +13,4 @@ Your program should take a filename as argument.
 Usage of your python program:
 $python3 utility.py -w &lt;filename&gt;
 
-You can parse sigle or multiple flag same time.
+You can parse single or multiple flag same time.
